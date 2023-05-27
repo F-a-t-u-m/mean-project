@@ -1,0 +1,16 @@
+mat-form-field {
+  width: 96%;
+  padding: 10px 2%;
+  min-height: 80%;
+}
+
+mat-spinner {
+  margin: auto;
+}
+
+button {
+  margin-top: 20px;
+  position: relative;
+  top: -15px;
+  left: 2%;
+}

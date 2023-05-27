@@ -1,0 +1,29 @@
+mat-form-field {
+  width: 96%;
+  padding: 10px 2%;
+  min-height: 80%;
+}
+
+button {
+  margin-top: 20px;
+  position: relative;
+  top: -15px;
+  left: 2%;
+}
+
+mat-spinner {
+  margin: auto;
+}
+
+input[type="file"] {
+  visibility: hidden;
+}
+
+.image-preview {
+  height: 5rem;
+  margin: 1rem 0;
+}
+
+.image-preview img {
+  height: 100%;
+}
